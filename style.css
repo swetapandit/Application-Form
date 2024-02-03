@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+}
+
+p {
+    margin-left: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.main {
+    padding: 5px;
+    width: fit-content;
+    background-color: white;
+    border-radius: 2%;
+    align-content: center;
+    margin-left: 35%;
+    font-size: 15px;
+}
+
+.up {
+    border: groove;
+    padding: 3px;
+    border-radius: 3%;
+    width: 200px;
+}
+
+.inner_container {
+    font-size: 50px;
+}
+
+font {
+    font-size: 15px;
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 30px;
+}
+
+select {
+    width: 205px;
+    height: 30px;
+}
+
+input[type="date"] {
+    width: 200px;
+    height: 30px;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border-radius: 10%;
+    border-color: red;
+    margin-left: 355px;
+    font-size: 15px;
+}
